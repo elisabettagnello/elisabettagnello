@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/elisabettagnello/elisabettagnello/blob/7f5d02c35961ccdf1b5f3abfa07421c79aaf2f67/img/01.gif?raw=true" width="750" alt="Follow Banner"/>
+  <img src="https://github.com/elisabettagnello/elisabettagnello/blob/7f5d02c35961ccdf1b5f3abfa07421c79aaf2f67/img/01.gif?raw=true" width="850" alt="Follow Banner"/>
 </div>
 
 <p align="center">
