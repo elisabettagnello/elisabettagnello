@@ -43,7 +43,7 @@
    <em><b> M.Sc. Student in Physics of Complex Systems @ Sapienza, University of Rome </b></em> 
    <br/>
    
-   <img src="https://img.icons8.com/ios-glyphs/30/ffffff/graduation.png" width="15" style="vertical-align: middle;"/>    
+   <img src="https://img.icons8.com/ios-glyphs/30/ffffff/graduation-cap.png" width="15" style="vertical-align: middle;"/>    
    <em><b> B.Sc. in Physics @ Sapienza, University of Rome (2021 - 2024) </b></em>
    <br/>
    
