@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/elisabettagnello/elisabettagnello/blob/7f5d02c35961ccdf1b5f3abfa07421c79aaf2f67/img/01.gif?raw=true" width="850" alt="Follow Banner"/>
+  <img src="https://github.com/elisabettagnello/elisabettagnello/blob/7f5d02c35961ccdf1b5f3abfa07421c79aaf2f67/img/01.gif?raw=true" width="650" alt="Follow Banner"/>
 </div>
 
 <p align="center">
@@ -43,11 +43,11 @@
    <em><b> M.Sc. Student in Physics of Complex Systems @ Sapienza, University of Rome </b></em> 
    <br/>
    
-   <img src="https://img.icons8.com/ios-glyphs/30/ffffff/diploma.png" width="15" style="vertical-align: middle;"/>    
+   <img src="https://img.icons8.com/ios-glyphs/30/ffffff/graduation.png" width="15" style="vertical-align: middle;"/>    
    <em><b> B.Sc. in Physics @ Sapienza, University of Rome (2021 - 2024) </b></em>
    <br/>
    
-   <img src="https://img.icons8.com/ios-glyphs/30/ffffff/book.png" width="15" style="vertical-align: middle;"/>    
+   <img src="https://img.icons8.com/ios-glyphs/30/ffffff/diploma.png" width="15" style="vertical-align: middle;"/>    
    <em><b> Thesis: Bose-Einstein Condensation and Superfluidity of Helium-4 </b></em>
    <br/>
 
