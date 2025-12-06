@@ -1,19 +1,22 @@
-<img src="INSERISCI_QUI_IL_LINK_RAW_DI_IMAGE_0.png" width="100%" alt="Follow Banner"/>
+<div align="center">
+  <img src="https://github.com/elisabettagnello/elisabettagnello/blob/7f5d02c35961ccdf1b5f3abfa07421c79aaf2f67/img/01.gif?raw=true" width="650" alt="Follow Banner"/>
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/elisabetta-agnello" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Personal_LinkedIn-000000?style=for-the-badge&logo=squarespace&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:agnelloe24@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://sheeptechnologies.com" target="_blank">
-    <img src="https://img.shields.io/badge/Sheep_Technologies-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Sheep_WebPage-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/company/sheeptechnologies" target="_blank">
-    <img src="https://img.shields.io/badge/Company_Page-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sheep LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn_Sheep-000000?style=for-the-badge&logo=squarespace&logoColor=white" alt="Sheep LinkedIn"/>
   </a>
 </p>
 
@@ -25,33 +28,31 @@
   <em>About me</em> 
 </h2>
 
-<img src="INSERISCI_QUI_IL_LINK_RAW_DI_IMAGE_1.png" width="250" align="right" style="margin-left: 20px;" alt="Spiral GIF"/>
+<img src="https://github.com/elisabettagnello/elisabettagnello/blob/main/img/02.gif?raw=true" width="250" align="right" style="margin-left: 20px;" alt="Spiral GIF"/>
 <br/>
 
 <p>
-  I am a <b>Physicist</b> and <b>Technical Founder</b> based in Rome. <br>
-  My background lies in <b>Statistical Mechanics</b> and <b>Complex Systems</b>, which I apply to model and build autonomous software agents. <br><br>
-  Currently, I am scaling <b>Sheep</b>, the first autonomous execution layer for engineering teams, while completing my Master's degree at Sapienza University.
+  Elisabetta Agnello
 </p>
 
 
 <br>
 
-<p align="center">
+<p align="left">
    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/graduation-cap.png" width="15" style="vertical-align: middle;"/>    
-   <em><b> M.Sc. Student in Physics of Complex Systems (Sapienza) </b></em> 
+   <em><b> M.Sc. Student in Physics of Complex Systems @ Sapienza, University of Rome </b></em> 
    <br/>
    
    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/diploma.png" width="15" style="vertical-align: middle;"/>    
-   <em><b> B.Sc. in Physics (Oct 2021 - Nov 2024) </b></em>
+   <em><b> B.Sc. in Physics @ Sapienza, University of Rome (2021 - 2024) </b></em>
    <br/>
    
    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/book.png" width="15" style="vertical-align: middle;"/>    
-   <em><b> Thesis: "Bose-Einstein Condensation and Superfluidity of Helium-4" </b></em>
+   <em><b> Thesis: Bose-Einstein Condensation and Superfluidity of Helium-4 </b></em>
    <br/>
 
    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/rocket.png" width="15" style="vertical-align: middle;"/>    
-   <em><b> Co-Founder @ Sheep (Autonomous Execution Layer) </b></em>
+   <em><b> Co-Founder @ Sheep  </b></em>
    <br/>
    
    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="15" style="vertical-align: middle;"/>    
@@ -64,7 +65,7 @@
 
 <h2 align="center"> 
   <img src="https://img.icons8.com/ios-glyphs/30/ffffff/maintenance.png" width="25" style="vertical-align: middle;"/> 
-  <em> Technologies </em> 
+  <em> Skills </em> 
 </h2>
 
 <p align="center">
@@ -77,14 +78,10 @@
   <img src="https://img.shields.io/badge/SciPy-%23000000.svg?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-%23000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=plotly&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Anaconda-%23000000.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 <br/>
-<br>
+
 
 <h2 align="center"> 
   <img src="https://img.icons8.com/ios-glyphs/30/ffffff/combo-chart.png" width="25" style="vertical-align: middle;"/> 
@@ -92,9 +89,6 @@
 </h2>
 
 <div align = "center"> 
-
-<img src="https://github-readme-stats.vercel.app/api?username=elisabettagnello&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350&hide_border=true" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisabettagnello&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&card_width=350" />
 
 <br/><br/>
 
