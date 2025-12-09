@@ -61,16 +61,6 @@
 </p>
 
 <br/>
-## ⚛️ Open Source Physics Notes
-Condivido i miei appunti universitari di Fisica.
-Tutti i PDF sono compilati automaticamente da sorgenti LaTeX.
-
-[![Library Preview](https://img.shields.io/badge/Access_Library-Sapienza_Notes-blue?style=for-the-badge&logo=latex)]( https://elisabettagnello.github.io/elisabetta-physics-notes/)
-
-**Ultimi arrivi:**
-* 📘 Meccanica Statistica
-* 📘 Superfluidità dell'Elio-4
-* 📘 [Vedi tutti...](https://elisabettagnello.github.io/elisabetta-physics-notes/)
 
 <br>
 
