@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://github.com/elisabettagnello/elisabettagnello/blob/7f5d02c35961ccdf1b5f3abfa07421c79aaf2f67/img/01.gif?raw=true" width="650" alt="Follow Banner"/>
-</div>
+
+<h1 align="center"> 
+  <em>Elisabetta Agnello</em> 
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elisabetta-agnello" target="_blank">
@@ -31,12 +32,7 @@
 <img src="https://github.com/elisabettagnello/elisabettagnello/blob/main/img/02.gif?raw=true" width="250" align="right" style="margin-left: 20px;" alt="Spiral GIF"/>
 <br/>
 
-<p>
-  Elisabetta Agnello
-</p>
 
-
-<br>
 
 <p align="left">
    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/graduation-cap.png" width="15" style="vertical-align: middle;"/>    
