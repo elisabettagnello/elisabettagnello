@@ -57,7 +57,7 @@
 <br>
 
 <h2 align="center"> 
-  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/maintenance.png" width="25" style="vertical-align: middle;"/> 
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/maintenance.png" width="15" style="vertical-align: middle;"/> 
   <em> Skills </em> 
 </h2>
 
