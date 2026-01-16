@@ -50,6 +50,9 @@
    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="15" style="vertical-align: middle;"/>    
    <em><b> Open Source Contributor (Physics Notes) </b></em>
    <br/>
+
+   <em><b> </b></em>
+   <br/>
 </p>
 
 <br/>
