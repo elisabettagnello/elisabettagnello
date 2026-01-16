@@ -47,10 +47,6 @@
    <em><b> Thesis: Bose-Einstein Condensation and Superfluidity of Helium-4 </b></em>
    <br/>
 
-   <img src="https://img.icons8.com/ios-glyphs/30/ffffff/rocket.png" width="15" style="vertical-align: middle;"/>    
-   <em><b> Co-Founder @ Sheep  </b></em>
-   <br/>
-   
    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="15" style="vertical-align: middle;"/>    
    <em><b> Open Source Contributor (Physics Notes) </b></em>
    <br/>
