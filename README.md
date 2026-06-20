@@ -12,6 +12,9 @@
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
+  <a href="https://elisabettagnello.github.io/elisabetta-physics-notes/" target="_blank">
+    <img src="https://img.shields.io/badge/Physics_Notes-000000?style=for-the-badge&logo=github&logoColor=white" alt="Physics Notes"/>
+  </a>
 </p>
 
 
