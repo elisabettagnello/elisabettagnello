@@ -12,13 +12,6 @@
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://sheeptechnologies.com" target="_blank">
-    <img src="https://img.shields.io/badge/Sheep_WebPage-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/company/sheeptechnologies" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn_Sheep-000000?style=for-the-badge&logo=squarespace&logoColor=white" alt="Sheep LinkedIn"/>
-  </a>
 </p>
 
 
@@ -29,7 +22,6 @@
   <em>About me</em> 
 </h2>
 
-<img src="https://github.com/elisabettagnello/elisabettagnello/blob/main/img/02.gif?raw=true" width="250" align="right" style="margin-left: 20px;" alt="Spiral GIF"/>
 <br/>
 
 
