@@ -31,19 +31,11 @@
 
 <p align="left">
    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/graduation-cap.png" width="15" style="vertical-align: middle;"/>    
-   <em><b> M.Sc. Student in Physics of Complex Systems @ Sapienza, University of Rome </b></em> 
+   <em><b> M.Sc. Student in Physics @ Sapienza, University of Rome (2024 - 2027)</b></em> 
    <br/>
    
    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/graduation-cap.png" width="15" style="vertical-align: middle;"/>    
    <em><b> B.Sc. in Physics @ Sapienza, University of Rome (2021 - 2024) </b></em>
-   <br/>
-   
-   <img src="https://img.icons8.com/ios-glyphs/30/ffffff/diploma.png" width="15" style="vertical-align: middle;"/>    
-   <em><b> Thesis: Bose-Einstein Condensation and Superfluidity of Helium-4 </b></em>
-   <br/>
-
-   <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="15" style="vertical-align: middle;"/>    
-   <em><b> Open Source Contributor (Physics Notes) </b></em>
    <br/>
 
    <em><b> </b></em>
